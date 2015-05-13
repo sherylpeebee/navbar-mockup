@@ -1,5 +1,5 @@
  li{
-  background-color: rgba(160,227,245,0.97);
+  background-color: #9bc2d3;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   margin: .5px;
@@ -8,6 +8,7 @@
 }
 .container-fluid{
   background-image: url("/assets/gray_sand.png");
+
 }
 
 .nav-base{
