@@ -6,8 +6,18 @@
   height: 5%;
   color: white;
 }
+
+.tab-pane{
+text-align: center;
+width: 200px;
+background-color: #FFFFFF;
+position: relative;
+left: 400px;
+font-size: 20px;
+}
+
 .container-fluid{
-  background-image: url("/assets/gray_sand.png");
+  background-image: url("assets/gray_sand.png");
 
 }
 
